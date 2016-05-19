@@ -1,1 +1,2 @@
-# java-learn
+# 学习Java
+主要是Java的基础知识，便于以后查找使用。
